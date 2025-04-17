@@ -1,0 +1,7 @@
+C:\Users\Дима\source\repos\Zadanie8\bin\Debug\Zadanie8.exe.config
+C:\Users\Дима\source\repos\Zadanie8\bin\Debug\Zadanie8.exe
+C:\Users\Дима\source\repos\Zadanie8\bin\Debug\Zadanie8.pdb
+C:\Users\Дима\source\repos\Zadanie8\obj\Debug\Zadanie8.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\Zadanie8\obj\Debug\Zadanie8.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Zadanie8\obj\Debug\Zadanie8.exe
+C:\Users\Дима\source\repos\Zadanie8\obj\Debug\Zadanie8.pdb

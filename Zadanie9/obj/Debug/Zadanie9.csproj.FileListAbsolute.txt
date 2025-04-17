@@ -1,0 +1,7 @@
+C:\Users\Дима\source\repos\Zadanie9\bin\Debug\Zadanie9.exe.config
+C:\Users\Дима\source\repos\Zadanie9\bin\Debug\Zadanie9.exe
+C:\Users\Дима\source\repos\Zadanie9\bin\Debug\Zadanie9.pdb
+C:\Users\Дима\source\repos\Zadanie9\obj\Debug\Zadanie9.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\Zadanie9\obj\Debug\Zadanie9.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Zadanie9\obj\Debug\Zadanie9.exe
+C:\Users\Дима\source\repos\Zadanie9\obj\Debug\Zadanie9.pdb

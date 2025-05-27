@@ -1,0 +1,6 @@
+C:\Users\sabba\source\repos\Files\Files\bin\Debug\Files.exe
+C:\Users\sabba\source\repos\Files\Files\bin\Debug\Files.pdb
+C:\Users\sabba\source\repos\Files\Files\obj\Debug\Files.csproj.AssemblyReference.cache
+C:\Users\sabba\source\repos\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\sabba\source\repos\Files\Files\obj\Debug\Files.exe
+C:\Users\sabba\source\repos\Files\Files\obj\Debug\Files.pdb

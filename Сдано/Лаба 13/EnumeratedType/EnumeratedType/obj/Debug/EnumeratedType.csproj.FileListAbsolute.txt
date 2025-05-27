@@ -1,0 +1,6 @@
+C:\Users\sabba\source\repos\EnumeratedType\EnumeratedType\bin\Debug\EnumeratedType.exe
+C:\Users\sabba\source\repos\EnumeratedType\EnumeratedType\bin\Debug\EnumeratedType.pdb
+C:\Users\sabba\source\repos\EnumeratedType\EnumeratedType\obj\Debug\EnumeratedType.csproj.AssemblyReference.cache
+C:\Users\sabba\source\repos\EnumeratedType\EnumeratedType\obj\Debug\EnumeratedType.csproj.CoreCompileInputs.cache
+C:\Users\sabba\source\repos\EnumeratedType\EnumeratedType\obj\Debug\EnumeratedType.exe
+C:\Users\sabba\source\repos\EnumeratedType\EnumeratedType\obj\Debug\EnumeratedType.pdb
